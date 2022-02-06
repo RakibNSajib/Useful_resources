@@ -1,5 +1,5 @@
-C++ শেখার জন্য কিছু ফ্রি রিসোর্স
-[~] BOOK : C++ PRIMER ( 5TH EDITION)
+# C++ শেখার জন্য কিছু ফ্রি রিসোর্স
+BOOK : C++ PRIMER ( 5TH EDITION)
 Writer : Stanley B. Lippman, Josée Lajoie & Barbara E. Moo
 Language : English
 Download Link : https://cutt.ly/JOFx7s8
